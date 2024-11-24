@@ -12,3 +12,5 @@ process to run the model:
 5) repeat step '3' ( run the model and observe results outputs and its accuracy, precision, recall and other parameters)
 
 The complete details of the observation is provided in the report (PFA)
+https://drive.google.com/file/d/1V3R3OvmR5f-ozxkqsc8mXmqsR8OsOc9p/view?usp=sharing
+
