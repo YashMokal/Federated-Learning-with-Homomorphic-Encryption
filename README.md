@@ -14,3 +14,4 @@ process to run the model:
 The complete details of the observation is provided in the report (PFA)
 https://drive.google.com/file/d/1V3R3OvmR5f-ozxkqsc8mXmqsR8OsOc9p/view?usp=sharing
 
+Graphical results of Federated Learning models with and without encryption PFA https://drive.google.com/file/d/1PdeIGiY5c26q67hyRtNizTrjt0uihcNa/view?usp=sharing
