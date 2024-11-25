@@ -7,7 +7,7 @@ Federated Analytics: works on private data science on remote data.
 process to run the model:
 1) install and import required libraries listed in the code
 2) upload and load tabular dataset (.csv file)
-3) run the model and observe results outputs and its accuracy, precision, recall and other parameters.
+3) run the Federated Learning model and observe results outputs and its accuracy, precision, recall and other parameters.
 4) do same on encrypted model to train model over encrypted dataset
 5) repeat step '3' ( run the model and observe results outputs and its accuracy, precision, recall and other parameters)
 
